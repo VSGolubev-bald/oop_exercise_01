@@ -15,4 +15,4 @@ struct quaternion {
 private:
     double array[4];
 };
-#endif //LAB1_QUATERNION_HPP
+#endif //L{}{}AB1_QUATERNION_HPP
